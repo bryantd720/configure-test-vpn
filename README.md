@@ -17,14 +17,14 @@ This tutorial will observe the setup and use of a VPN on an Azure Virtual Machin
 
 <h2>High-Level Steps</h2>
 
-**Part 1(Create Virtual Machine in Azure)**
+**Part 1 (Create Virtual Machine in Azure)**
 - Browse to https://whatismyipaddress.com/ and take note of this in a text file
 - Create a Resource Group
 - Create a Windows 10 Virtual Machine in another geographic location (try a different country)
 - Log into the VM with Remote Desktop
 - Browse to https://whatismyipaddress.com/ and take note of this in a text file
 
-**Part2(Sign up for ProtonVPN and test the VPN connection)**
+**Part2 (Sign up for ProtonVPN and test the VPN connection)**
 - On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
 - Back within your VM, download the Proton VPN client
 - Login to the VPN and choose a VPN server in yet another country (such as Japan)
