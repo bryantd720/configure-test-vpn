@@ -3,7 +3,7 @@
 </p>
 
 <h1>Setting Up and Using A Virtual Private Network (VPN) within an Azure Virtual Machine</h1>
-This tutorial will observe the setup and use of a VPN within an Azure Virtual Machine. <br />
+This tutorial will observe the setup and use of a VPN within an Azure VM. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -74,6 +74,6 @@ VM now uses the new IP address and location assigned to it by the VPN client.
 <img src="https://i.imgur.com/2xDJUA0.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 </P>
 <p>
-Surfing the internet (or unsecure network), the browser now "thinks" the VM's location and IP address are in Japan. When trying to access www.google.com, it now returns the Japanese version of that url.
+Surfing the internet (or unsecure network), the browser now "thinks" the VM's location and IP address are in Japan. When trying to access www.google.com, for instance, it returns the Japanese version of that URL.
 </p>
 <br />
