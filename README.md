@@ -15,9 +15,9 @@ This tutorial will observe the setup and use of a VPN on an Azure Virtual Machin
 
 - Windows 10 (21H2)
 
-<h2>High-Level Steps</h2>
+<h2>Testing Steps</h2>
 
-**Part 1 (Create Virtual Machine in Azure)**
+**Part 1 (Create Virtual Machine in Azure and test its IP Address)**
 - Browse to https://whatismyipaddress.com/ and take note of this in a text file
 - Create a Resource Group
 - Create a Windows 10 Virtual Machine in another geographic location (try a different country)
@@ -29,8 +29,14 @@ This tutorial will observe the setup and use of a VPN on an Azure Virtual Machin
 - Back within your VM, download the Proton VPN client
 - Login to the VPN and choose a VPN server in yet another country (such as Japan)
 - Browse to https://whatismyipaddress.com/  and take note of this in a text file
-- Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+- Try browsing to Google, Yahoo, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
 
 
 <h2>Example Screenshots</h2>
 
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps" />
+</P>
+<p>
+</p>
+<br />
