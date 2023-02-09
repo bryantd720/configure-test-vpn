@@ -56,6 +56,24 @@ Downloaded and installed free VPN client within VM.
 <img src="https://i.imgur.com/GTLEMn7.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
 </P>
 <p>
-Connected to VPN and was assigned a new IP address in Japan.
+Connected to VPN and it assigned the VM a new IP address (in Tokyo).
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/BQApMs4.png" height="80%" width="80%" alt="Disk Sanitization Steps" />
+</P>
+<p>
+VM now uses the new IP address and location assigned to it by the VPN client.
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps" />
+</P>
+<p>
+Surfing the internet (or unsecure network), the browser now "thinks" the VM's location and IP address are in Japan. When trying to access
 </p>
 <br />
